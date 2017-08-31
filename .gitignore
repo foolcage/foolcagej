@@ -1,0 +1,26 @@
+/**/rebel.xml
+
+#target/
+target/
+
+# IDEA #
+.idea/
+*.iml
+
+# Eclipse #
+.settings/
+.classpath
+.project
+
+# Log #
+logs/
+*.log%
+parking-admin-server-web/D:\\56QQ\\logs\\uc.log*
+
+#mac 
+.DS_Store
+
+#svn
+.svn
+#reviewboardrc
+.reviewboardrc

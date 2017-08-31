@@ -1,0 +1,27 @@
+{
+  "stock": {
+    "properties": {
+      "type": {
+        "type": "string"
+      },
+      "id": {
+        "type": "string"
+      },
+      "code": {
+        "type": "string"
+      },
+      "name": {
+        "type": "string"
+      },
+      "listDate": {
+        "type": "date"
+      },
+      "delistDate": {
+        "type": "date"
+      },
+      "exchange": {
+        "type": "string"
+      }
+    }
+  }
+}
