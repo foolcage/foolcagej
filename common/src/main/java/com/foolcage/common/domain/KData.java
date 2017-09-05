@@ -15,10 +15,10 @@ import java.util.Date;
 @NoArgsConstructor
 public class KData implements Serializable {
     private String id;
-    private Date timestamp;
     private String securityId;
-    private String code;
+    private Date timestamp;
     private String type;
+    private String code;
     //级别，1,5,15,30,60,DAY,WEEK,MONTH
     private String level;
     private float fuquan;
